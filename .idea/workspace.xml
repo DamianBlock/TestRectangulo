@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2de4bc22-beda-4cc3-95af-a8df8b61830a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rectangulo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplo/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplo/Rectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ejemplo/RectanguloTest.java" afterDir="false" />
+    <list default="true" id="2de4bc22-beda-4cc3-95af-a8df8b61830a" name="Changes" comment="Prueba test de calcular area rectangulo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejemplo/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejemplo/Rectangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ejemplo/RectanguloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ejemplo/RectanguloTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +42,7 @@
     "Repository.Attach.Sources": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
   }
@@ -71,6 +65,18 @@
       <option name="presentableId" value="Default" />
       <updated>1701829813473</updated>
     </task>
+    <task id="LOCAL-00001" summary="Prueba test de calcular area rectangulo">
+      <created>1701841425651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701841425651</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prueba test de calcular area rectangulo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prueba test de calcular area rectangulo" />
   </component>
 </project>

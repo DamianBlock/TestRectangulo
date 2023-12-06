@@ -11,6 +11,10 @@ public class Rectangulo {
         this.ancho = ancho;
     }
 
+    public Rectangulo() {
+
+    }
+
     public int area() {
 
         return alto * ancho;
@@ -21,4 +25,7 @@ public class Rectangulo {
 
     }
 
+    public int perimetro(int i, int i1) {
+        return 2 * i + 2 * i1;
+    }
 }
